@@ -1,5 +1,7 @@
 ### Hi everyone! 👋
 
+My name is Max Pronin and i'm an analyst.
+
 <!--
 **Maximum-prog/Maximum-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
