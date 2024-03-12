@@ -5,7 +5,7 @@ I love doing brainstorm, hypothesizing, and digging into data🔭 My background 
 ### I am finishing my master's degree at MIPT in FinaTech and Analytics.
 
 ##  Stack
-Python, SQL, Power B, numpy, scipy, pandas and keras libraries
+Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Portfolio
 - *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*
