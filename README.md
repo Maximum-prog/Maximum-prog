@@ -3,6 +3,10 @@
 My name is Max Pronin and i'm an analyst.
 I love doing brainstorm, hypothesizing, and digging into data🔭
 
+#I am finishing my master's degree at MIPT in FinaTech and Analytics.
+
+###Stack
+Python, SQL, Power B, numpy, scipy, pandas and keras libraries
 <!--
 **Maximum-prog/Maximum-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
