@@ -28,6 +28,10 @@ Python, SQL, Power B, numpy, scipy, pandas and keras libraries
 ## Tranings
 - *Hackathon from Netology,Data Analysis, 2nd place, 2023*
 -  *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
+## Contacts💬
+email:pronin-max-vlad@yandex.ru
+telegram:https://t.me/MaximusPronin
+
 <!--
 **Maximum-prog/Maximum-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
