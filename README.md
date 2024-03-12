@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
 My name is Max Pronin and i'm an analyst.
-I love doing brainstorm, hypothesizing, and digging into data🔭
+I love doing brainstorm, hypothesizing, and digging into data🔭 My background - 15 years of work in the banking sector in different directions😄
 
 # I am finishing my master's degree at MIPT in FinaTech and Analytics.
 
@@ -19,6 +19,15 @@ Python, SQL, Power B, numpy, scipy, pandas and keras libraries
 ## Graduared
 - Sberbank Corporate University, Professional retraining at Data Scientist,2022
 - Russian Peoples' Friendship University,Bachelor of Economics, 2005
+## Courses
+- *Python Basics,2022*
+- *Python for data analysis,2022*
+- *Introduction to AI,2022*
+- *Machine learning,2022*
+- *SQL Basics,2022*
+## Tranings
+- *Hackathon from Netology,Data Analysis, 2nd place, 2023*
+-  *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
 <!--
 **Maximum-prog/Maximum-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
