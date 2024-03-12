@@ -5,27 +5,27 @@ I love doing brainstorm, hypothesizing, and digging into data🔭 My background 
 
 # I am finishing my master's degree at MIPT in FinaTech and Analytics.
 
-###  Stack
+##  Stack
 Python, SQL, Power B, numpy, scipy, pandas and keras libraries
 
-### Portfolio
+## Portfolio
 - *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*
 - *Stock Market Data Analysis Project*
 - *Borrower default model Project*
 
-### Education, Cources, Tranings
-## Study
+## Education, Cources, Tranings
+### Study
 - MIPT&Netology, Financial technologies, Master's degree in Business Informatics, 2024
-## Graduared
+### Graduared
 - Sberbank Corporate University, Professional retraining at Data Scientist,2022
 - Russian Peoples' Friendship University,Bachelor of Economics, 2005
-## Courses
+### Courses
 - *Python Basics,2022*
 - *Python for data analysis,2022*
 - *Introduction to AI,2022*
 - *Machine learning,2022*
 - *SQL Basics,2022*
-## Tranings
+### Tranings
 - *Hackathon from Netology,Data Analysis, 2nd place, 2023*
 -  *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
 ## Contacts💬
