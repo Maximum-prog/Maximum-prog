@@ -2,13 +2,15 @@
 
 My name is Max Pronin and i'm an analyst.
 I love doing brainstorm, hypothesizing, and digging into data🔭 My background - 15 years of work in the banking sector in different directions😄
-### I am finishing my master's degree at MIPT in FinaTech and Analytics.
+** I am finishing my master's degree at MIPT in FinaTech and Analytics.**
 
 ##  Stack
 Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Portfolio
--*Diploma at MITP "recommendation system for optimal investment based on information about green energy"*https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true
+- *Diploma at MITP "recommendation system for optimal investment based on information about green energy"*
+- [ссылка](https://example.com)
+- https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true
 - *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*
 - *Stock Market Data Analysis Project*
 - *Borrower default model Project*
