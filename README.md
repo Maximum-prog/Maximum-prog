@@ -9,7 +9,8 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Portfolio
 - *Diploma at MITP "recommendation system for optimal investment based on information about green energy"* [link to presentation](https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true)
-- *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*
+- *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*[ProninMV _.pptx](https://github.com/Maximum-prog/Maximum-prog/files/14593837/ProninMV._.pptx)
+
 
 - *Borrower default model Project*
 - *Stock Market Data Analysis Project*
