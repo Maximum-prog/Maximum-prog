@@ -9,9 +9,9 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Portfolio
 - *Diploma at MITP "recommendation system for optimal investment based on information about green energy"* [link to presentation](https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true)
-- *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*[ссылка](https://example.com)
-- *Stock Market Data Analysis Project*
+- *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*(presentation](https://github.com/Maximum-prog/Maximum-prog/files/14593613/ProninMV.pdf)
 - *Borrower default model Project*
+- *Stock Market Data Analysis Project*
 
 ## Education, Cources, Tranings
 ### Study
@@ -32,7 +32,8 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ### Tranings
 - *Hackathon from Netology,Data Analysis, 2nd place, 2023*
-- *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
+- *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*[Certificate](https://github.com/Maximum-prog/Maximum-prog/files/14593596/default.pdf)
+
 ## Contacts💬
 email:pronin-max-vlad@yandex.ru
 telegram:https://t.me/MaximusPronin
