@@ -6,7 +6,15 @@ I love doing brainstorm, hypothesizing, and digging into data🔭 My background 
 
 ##  Stack
 Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
+title="anc" width = "40" height= "40"/>$nbsp;
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+title="sql" width = "40" height= "40"/>$nbsp;         
+          
+          
+          
           
 ## Portfolio
 - *Diploma at MITP "recommendation system for optimal investment based on information about green energy"* [link to presentation](https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true)
