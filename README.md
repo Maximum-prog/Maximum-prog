@@ -7,11 +7,9 @@ I love doing brainstorm, hypothesizing, and digging into data🔭 My background 
 ##  Stack
 Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
-title="anc" width = "40" height= "40"/>$nbsp;
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-title="sql" width = "40" height= "40"/>$nbsp;         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="anc" width = "40" height= "40"/>;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /> 
+title="sql" width = "40" height= "40"/>;         
           
           
           
