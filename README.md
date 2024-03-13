@@ -15,14 +15,14 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Education, Cources, Tranings
 ### Study
-- MIPT&Netology, Financial technologies, Master's degree in Business Informatics, 2024 [link to programme]([https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true](https://netology.ru/programs/fintech#/lessons))
+- MIPT&Netology, Financial technologies, Master's degree in Business Informatics, 2024 [link to programme]((https://netology.ru/programs/fintech#/lessons))
 ### Graduared
-- Sberbank Corporate University, Professional retraining at Data Scientist,2022![Diploma Data Science](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/9c36b95b-6e8d-41f8-9532-0284d5f7cf36)
+- Sberbank Corporate University, Professional retraining at Data Scientist,2022[Diploma Data Science](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/9c36b95b-6e8d-41f8-9532-0284d5f7cf36)
 
 - Russian Peoples' Friendship University,Bachelor of Economics, 2005[Diploma](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/25546488-61fb-464a-ac5c-d9486f06666e)
 
 ### Courses
-- *Python Basics,2022*[certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/def21486-03d0-442b-8048-8f50a99f8a9e)
+- *Python Basics,2022 [certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/def21486-03d0-442b-8048-8f50a99f8a9e)*
 
 - *Python for data analysis,2022*[certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/0eb17e09-230c-4c11-8d6c-ccd5d3f173b2)
 
