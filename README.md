@@ -33,7 +33,7 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ### Tranings
 - *Hackathon from Netology,Data Analysis, 2nd place, 2023*
-- *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*[Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/0fb20119-5a29-426d-90ab-004f576b8a2a)[Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/7bbbf44f-5a88-497e-8eff-ca5a922d74ec)
+- *Hackathon from MTS Bank,default model predictions, 2nd place, 2023* [Certificate1](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/0fb20119-5a29-426d-90ab-004f576b8a2a) [Certificate2](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/7bbbf44f-5a88-497e-8eff-ca5a922d74ec)
 
 
 ## Contacts💬
