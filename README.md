@@ -6,7 +6,8 @@ I love doing brainstorm, hypothesizing, and digging into data🔭 My background 
 
 ##  Stack
 Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
-
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />;
+          
 ## Portfolio
 - *Diploma at MITP "recommendation system for optimal investment based on information about green energy"* [link to presentation](https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true)
 - *Diploma at the Sberbank Corporate University "Detection of secret data hidden in digital images"*[link to presentation](https://drive.google.com/file/d/1p1IrIcNEML7gGTqViK2NaxAIw5HvUbWp/view?usp=sharing)
