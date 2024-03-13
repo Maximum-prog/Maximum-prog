@@ -15,24 +15,24 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
 
 ## Education, Cources, Tranings
 ### Study
-- MIPT&Netology, Financial technologies, Master's degree in Business Informatics, 2024 [link to programme]((https://netology.ru/programs/fintech#/lessons))
+- MIPT&Netology, Financial technologies, Master's degree in Business Informatics, 2024 [link to programme](https://netology.ru/programs/fintech#/lessons)
 ### Graduared
-- Sberbank Corporate University, Professional retraining at Data Scientist,2022[Diploma Data Science](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/9c36b95b-6e8d-41f8-9532-0284d5f7cf36)
+- Sberbank Corporate University, Professional retraining at Data Scientist,2022 [Diploma](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/9c36b95b-6e8d-41f8-9532-0284d5f7cf36)
 
-- Russian Peoples' Friendship University,Bachelor of Economics, 2005[Diploma](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/25546488-61fb-464a-ac5c-d9486f06666e)
+- Russian Peoples' Friendship University,Bachelor of Economics, 2005 [Diploma](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/25546488-61fb-464a-ac5c-d9486f06666e)
 
 ### Courses
-- *Python Basics,2022 [certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/def21486-03d0-442b-8048-8f50a99f8a9e)*
+- *Python Basics,2022 [Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/def21486-03d0-442b-8048-8f50a99f8a9e)*
 
-- *Python for data analysis,2022*[certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/0eb17e09-230c-4c11-8d6c-ccd5d3f173b2)
+- *Python for data analysis,2022* [Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/0eb17e09-230c-4c11-8d6c-ccd5d3f173b2)
 
-- *Introduction to AI,2022*[certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/4f00753e-9f60-4277-b1f5-c260495ef240)
+- *Introduction to AI,2022* [Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/4f00753e-9f60-4277-b1f5-c260495ef240)
 
-- *Machine learning,2022*[certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/58c6bad0-5839-4dba-9043-8e7585fc4013)
+- *Machine learning,2022* [Certificate](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/58c6bad0-5839-4dba-9043-8e7585fc4013)
 
 ### Tranings
 - *Hackathon from Netology,Data Analysis, 2nd place, 2023*
--  *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
+- *Hackathon from MTS Bank,default model predictions, 2nd place, 2023*
 ## Contacts💬
 email:pronin-max-vlad@yandex.ru
 telegram:https://t.me/MaximusPronin
