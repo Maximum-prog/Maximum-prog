@@ -20,13 +20,14 @@ Python, SQL, Power Bi, numpy, scipy, pandas and keras libraries
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"  alt="slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>        
-          
-          
-          
+</div> 
+
+   ![image](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/d4e30b8c-7118-4129-ace2-127749e9da7f)&nbsp;
+   ![image](https://github.com/Maximum-prog/Maximum-prog/assets/113439880/65c08eef-34ae-4d21-8c68-9bbb7c5fd642)
+
+
+       
           
 ## Portfolio
 - *Diploma at MITP "recommendation system for optimal investment based on information about green energy"* [link to presentation](https://docs.google.com/presentation/d/1z0iIgs6LlduLJCbWPMzKb7nTCdgCwpVD/edit?usp=sharing&ouid=115611261614680991719&rtpof=true&sd=true)
