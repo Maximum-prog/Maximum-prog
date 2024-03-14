@@ -2,6 +2,7 @@
 
 My name is Max Pronin and i'm an analyst.
 I love doing brainstorm, hypothesizing, and digging into data🔭 My background - 15 years of work in the banking sector in different directions😄
+
 **I am finishing my master's degree at MIPT in FinaTech and Analytics.**
 
 ##  Stack
